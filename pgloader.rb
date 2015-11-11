@@ -225,8 +225,8 @@ class Pgloader < Formula
   end
 
   resource "pgloader" do
-    url "https://beta.quicklisp.org/archive/pgloader/2015-03-02/pgloader-3.2.0.tgz"
-    sha256 "b6ee64da37b9c781deafbfb5f698bdd2d005bcb03380b7072e0cf1cecc237204"
+    url "https://beta.quicklisp.org/archive/pgloader/2015-09-23/pgloader-3.2.2.tgz"
+    sha256 "afb3d94a028c229a6c957d8b2b086cb371113b4b26b0a8903094e0b242a7eb52"
   end
 
   resource "postmodern" do
